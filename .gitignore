@@ -341,3 +341,9 @@ healthchecksdb
 
 7PeaksSoftware.VehicleTrackingSystem/7PeaksSoftware.VehicleTrackingSystem.API/bin/*
 7PeaksSoftware.VehicleTrackingSystem/7PeaksSoftware.VehicleTrackingSystem.API/obj/*
+
+7PeaksSoftware.VehicleTrackingSystem/7PeaksSoftware.VehicleTrackingSystem.Service/bin/*
+7PeaksSoftware.VehicleTrackingSystem/7PeaksSoftware.VehicleTrackingSystem.Service/obj/*
+
+7PeaksSoftware.VehicleTrackingSystem/7PeaksSoftware.VehicleTrackingSystem.DataAccess/bin/*
+7PeaksSoftware.VehicleTrackingSystem/7PeaksSoftware.VehicleTrackingSystem.DataAccess/obj/*
