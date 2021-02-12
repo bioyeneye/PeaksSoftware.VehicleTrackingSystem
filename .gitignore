@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+7PeaksSoftware.VehicleTrackingSystem/7PeaksSoftware.VehicleTrackingSystem.API/bin/*
+7PeaksSoftware.VehicleTrackingSystem/7PeaksSoftware.VehicleTrackingSystem.API/obj/*
