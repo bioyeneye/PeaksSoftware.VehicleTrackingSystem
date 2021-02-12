@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PeaksSoftware.VehicleTrackingSystem.API</RootNamespace>
+    <UserSecretsId>3e4843fd-56e6-49eb-86bd-45e3a9443aaf</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <AssemblyName>PeaksSoftware.VehicleTrackingSystem.API</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\BolajiOyeneye\source\repos\7PeaksSoftware.VehicleTrackingSystem\7PeaksSoftware.VehicleTrackingSystem.API\PeaksSoftware.VehicleTrackingSystem.API.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="5.5.1" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.5.1" />
+  </ItemGroup>
+
+
+</Project>

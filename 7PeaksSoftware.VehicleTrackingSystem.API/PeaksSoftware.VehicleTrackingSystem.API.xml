@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PeaksSoftware.VehicleTrackingSystem.API</name>
+    </assembly>
+    <members>
+        <member name="T:PeaksSoftware.VehicleTrackingSystem.API.Extensions.ServiceCollectionsExtension">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PeaksSoftware.VehicleTrackingSystem.API.Extensions.ServiceCollectionsExtension.AddSwaggerDoc(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+            <param name="configuration"></param>
+            <param name="version"></param>
+            <param name="title"></param>
+            <param name="description"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
